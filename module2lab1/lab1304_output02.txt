@@ -1,0 +1,36 @@
+1st: Please enter a radius (integer):
+1st: Please enter angle (in degrees) between 0 and 360):
+2nd: Please enter a radius (integer):
+2nd: Please enter angle (in degrees) between 0 and 360):
+3rd: Please enter a radius (integer):
+3rd: Please enter angle (in degrees) between 0 and 360):
+4th: Please enter a radius (integer):
+4th: Please enter angle (in degrees) between 0 and 360):
+5th: Please enter a radius (integer):
+5th: Please enter angle (in degrees) between 0 and 360):
+6th: Please enter a radius (integer):
+6th: Please enter angle (in degrees) between 0 and 360):
+7th: Please enter a radius (integer):
+7th: Please enter angle (in degrees) between 0 and 360):
+8th: Please enter a radius (integer):
+8th: Please enter angle (in degrees) between 0 and 360):
+9th: Please enter a radius (integer):
+9th: Please enter angle (in degrees) between 0 and 360):
+10th: Please enter a radius (integer):
+10th: Please enter angle (in degrees) between 0 and 360):
+
+  Radius(inch)  Angle(deg)  Angle(rad) ArcLength(inch)  Polar Area(sq.inch)
+
+             3          31        0.54            1.62                 2.43
+            23         280        4.89          112.40              1292.59
+            68          95        1.66          112.75              3833.44
+           108          30        0.52           56.55              3053.63
+            15         145        2.53           37.96               284.71
+            92         360        6.28          578.05             26590.44
+             4         120        2.09            8.38                16.76
+           102         139        2.43          247.45             12620.09
+            30         100        1.75           52.36               785.40
+             2         189        3.30            6.60                 6.60
+
+The average of radius of all 10 circles is: 44.7 inches.
+
